@@ -4,6 +4,7 @@
         margin:0;
         height:100vh;
         overflow-y:scroll;
+        overflow-x: hidden;
     }    
     ::-webkit-scrollbar {
         width: 0px;
@@ -980,3 +981,5 @@
         background-color: rgb(25, 25, 112);
         z-index:0
     }
+
+}
